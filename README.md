@@ -1,4 +1,15 @@
-<img width="979" height="392" alt="image" src="[#](https://blogger.googleusercontent.com/img/a/AVvXsEiveAfAJoCjV2VyEJMZ_jbUekk8ilZygTlciiVTQt5cKDe2YDhTS456xdPkV8ygO8j-psRFtH_OdiIBdZh1E-RZiVFYmRHeWpVLKKCKEtJX_mt6hM9o8yasXSZdxGAoLA8U3SWupcgMAtlILkIXdWc71OiPmRzg71gA4FIKTn25U-wkf2jzNSquapZfGhGg)" />
+<div align="center">
+  
+  <!-- يمكنك استخدام رابط مباشر للصورة (مثل Imgur) أو مسار محلي داخل المشروع -->
+  <img src="[images/tool-logo.png](https://blogger.googleusercontent.com/img/a/AVvXsEiveAfAJoCjV2VyEJMZ_jbUekk8ilZygTlciiVTQt5cKDe2YDhTS456xdPkV8ygO8j-psRFtH_OdiIBdZh1E-RZiVFYmRHeWpVLKKCKEtJX_mt6hM9o8yasXSZdxGAoLA8U3SWupcgMAtlILkIXdWc71OiPmRzg71gA4FIKTn25U-wkf2jzNSquapZfGhGg)" alt="Windows Repair Tool Pro Interface" width="700">
+  
+  <!-- بدلاً من ذلك، إذا كنت تريد عرض سكريين شوت للأداة وهي تعمل: -->
+  <!-- <img src="images/screenshot.png" alt="Tool Menu Screenshot" width="800"> -->
+  
+</div>
+
+<br>
+
 <div align="center">
 
 # 🛠️ Windows Repair Tool Pro
