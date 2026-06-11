@@ -1,16 +1,4 @@
-<div align="center">
-  
-  <!-- يمكنك استخدام رابط مباشر للصورة (مثل Imgur) أو مسار محلي داخل المشروع -->
-  <img src="images/tool-logo.png" alt="Windows Repair Tool Pro Interface" width="700">
-  
-  <!-- بدلاً من ذلك، إذا كنت تريد عرض سكريين شوت للأداة وهي تعمل: -->
-  <!-- <img src="images/screenshot.png" alt="Tool Menu Screenshot" width="800"> -->
-  
-</div>
-
-<br>
-
-<div align="center">
+<img width="958" height="878" alt="2025-10-19 01_47_11-NVIDIA GeForce Overlay" src="https://blogger.googleusercontent.com/img/a/AVvXsEiveAfAJoCjV2VyEJMZ_jbUekk8ilZygTlciiVTQt5cKDe2YDhTS456xdPkV8ygO8j-psRFtH_OdiIBdZh1E-RZiVFYmRHeWpVLKKCKEtJX_mt6hM9o8yasXSZdxGAoLA8U3SWupcgMAtlILkIXdWc71OiPmRzg71gA4FIKTn25U-wkf2jzNSquapZfGhGg" />
 
 # 🛠️ Windows Repair Tool Pro
 ### أداة صيانة وتحسين وإصلاح الويندوز الشاملة
