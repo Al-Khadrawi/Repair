@@ -32,7 +32,7 @@ call :AUTO_UPDATE
 :menu
 cls
 echo %CYAN%====================================================%RESET%
-echo %GREEN%            Windows Repair Tool Pro v1.5%RESET%
+echo %GREEN%            Windows Repair Tool Pro v2.0%RESET%
 echo %CYAN%====================================================%RESET%
 echo.
 echo %GREEN%[0]%RESET% %GREEN%Create Restore Point%RESET%
@@ -2978,7 +2978,7 @@ echo.
 
 echo %WHITE%Developer:%RESET% AL KHADRAWI
 echo %WHITE%GitHub:%RESET% https://github.com/al-khadrawi
-echo %WHITE%Version:%RESET% 1.5
+echo %WHITE%Version:%RESET% 2.0
 echo.
 
 echo %YELLOW%Opening GitHub page...%RESET%
@@ -3001,7 +3001,7 @@ exit /b
 :AUTO_UPDATE
 setlocal EnableDelayedExpansion
 
-set CURRENT_VERSION=1.5
+set CURRENT_VERSION=2.0
 set VERSION_URL=https://raw.githubusercontent.com/newmatrix/WinRTP/main/Version.txt
 set TOOL_URL=https://raw.githubusercontent.com/newmatrix/WinRTP/main/WindowsRepairToolPro.bat
 
